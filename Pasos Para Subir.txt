@@ -1,0 +1,5 @@
+1-ingresar a cmd en la barra de direccion
+2-git status (para verificar lo que se va a subir) (opcional)
+3-git add . (para anadir todos los archivos modificados)
+4-git commit -m "comentario de la actualizacion" ()
+5-git push
